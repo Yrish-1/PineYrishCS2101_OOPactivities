@@ -1,4 +1,4 @@
-package laboratory_activity_3_13_11_2025.artists;
+package laboratory_activity_2_13_11_2025.artists;
 
 public class Dancer extends Artist {
     public enum DanceStyle {
